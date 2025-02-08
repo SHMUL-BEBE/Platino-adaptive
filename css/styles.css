@@ -1288,6 +1288,7 @@ footer {
     .container{
         width: 390px;
         height: 2619px;
+        overflow: hidden;
     }  
     /****Шапка****/
     .header{
